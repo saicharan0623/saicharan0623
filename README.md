@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Malde Saicharan</h1>
 <h3 align="center">B.Tech CSE - Data Science | Full Stack Developer | Data Analyst</h3>
 
-
 <p align="center"><strong><em>"Sometimes You Win, Sometimes You Learn"</em></strong></p>
 
-
-
 ---
+
 ## 💼 Check Out My Projects
- <div align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
@@ -34,7 +32,7 @@
         <hr>
         <p>Event platform<br>Points system<br>Multi-user roles</p>
         <hr>
-        <a href="[http://nmimtechfeista.in](https://nmimstechfiesta.in/)" target="_blank">
+        <a href="https://nmimstechfiesta.in/" target="_blank">
           <img src="https://img.shields.io/badge/Live-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Project"/>
         </a>
       </td>
@@ -52,28 +50,55 @@
 </div>
 
 <details>
-  <summary><b>More Projects</b></summary>
+  <summary><b>For More Projects Click here..</b></summary>
   <br>
-  <ul>
-    <li>
-      <h3>Traffic Light Control System</h3>
-      <p>
-        • ML-based traffic management<br>
-        • Optimizes signal timing based on density<br>
-        • Reduces congestion in simulated environments
-      </p>
-    </li>
-    <li>
-      <h3>Laundry Management System</h3>
-      <p>
-        • Pickup scheduling web application<br>
-        • Order tracking and notifications<br>
-        • Automated billing system
-      </p>
-    </li>
-  </ul>
+
+  <table>
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+    </tr>
+    <tr>
+      <td><b>Automatic Traffic Signal Indicator</b></td>
+      <td>
+        - AI-based traffic signal optimization  
+        - Real-time vehicle density analysis  
+        - Reduces congestion in urban areas  
+      </td>
+      <td>Python, Machine Learning, Data Analytics</td>
+    </tr>
+    <tr>
+      <td><b>Events Manager Android App</b></td>
+      <td>
+        - Student and event registration system  
+        - Admin panel for event management  
+        - Real-time updates and notifications  
+      </td>
+      <td>Android (Java, XML), Firebase</td>
+    </tr>
+    <tr>
+      <td><b>Laundry Management System</b></td>
+      <td>
+        - Web application for laundry service automation  
+        - Pickup scheduling and order tracking  
+      </td>
+      <td>PHP, MySQL, Bootstrap</td>
+    </tr>
+    <tr>
+      <td><b>Netherlands Wikipedia Sentiment Analysis</b></td>
+      <td>
+        - Sentiment analysis on Wikipedia articles  
+        - Uses NLP techniques for text classification  
+        - Implemented with Python and text processing libraries  
+      </td>
+      <td>Python, NLTK, TextBlob</td>
+    </tr>
+  </table>
+
 </details>
 
+---
 
 ## 🛠️ Technical Skills
 
@@ -81,17 +106,19 @@
   <img src="https://skillicons.dev/icons?i=react,mongodb,php,mysql,html,css,js,bootstrap,aws,python,c,r,cpp,tailwind" />
 </p>
 
+---
+
 ## 🏆 Achievements & Certifications
 
 <div align="center">
   <table>
     <tr>
-      <td>🥇 <strong>75th Rank</strong> in IIT Kottayam CTF (2024)</td>
-      <td>🥈 <strong>Runner-Up</strong> in Webathon (2024)</td>
+      <td>🥇 <strong>Ranked 75th</strong> in IIT Kottayam CTF (out of X participants, 2024)</td>
+      <td>🥈 <strong>2nd Place</strong> in Webathon Coding Competition (2024)</td>
     </tr>
     <tr>
-      <td>🔰 <strong>Top Performer</strong> in IN-SEC Cyber-Security Challenges</td>
-      <td>📱 <strong>Google Cloud Computing Foundations</strong> (4 courses)</td>
+      <td>🔰 <strong>Recognized Performer</strong> in IN-SEC Cyber-Security Challenges</td>
+      <td>📱 <strong>Google Cloud Computing Foundations</strong> (4 courses completed)</td>
     </tr>
     <tr>
       <td>⚛️ <strong>React JS Certification</strong> - Scalar Topics</td>
@@ -100,8 +127,25 @@
   </table>
 </div>
 
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:saicharanmalde@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maldesaicharan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/saicharan0623">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <h3>Let's Build Something Great Together! 🚀</h3>
-  <p>Feel free to reach out for collaborations or just a tech chat!</p>
+<h3>Let's Build Something Great Together! 🚀</h3>  
+ <p>Feel free to reach out for discussions on projects, internships, or tech chats!</p>
 </div>
