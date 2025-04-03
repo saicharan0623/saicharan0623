@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Malde Saicharan</h1>
 <h3 align="center">B.Tech CSE - Data Science | Full Stack Developer | Data Analyst</h3>
 
-<p align="center">
-  <a href="https://maldesaicharan.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-blue?style=for-the-badge" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/maldesaicharan/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+
+<p align="center"><strong><em>"Sometimes You Win, Sometimes You Learn"</em></strong></p>
+
 
 
 ---
