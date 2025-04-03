@@ -2,12 +2,17 @@
 <h3 align="center">B.Tech CSE - Data Science | Full Stack Developer | Data Analyst</h3>
 
 <p align="center">
-  <a href="https://maldesaicharan.netlify.app" target="_blank">View My Portfolio</a> •
-  <a href="https://www.linkedin.com/in/maldesaicharan/" target="_blank">LinkedIn</a> •
+  <a href="https://maldesaicharan.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-blue?style=for-the-badge" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/maldesaicharan/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
+
 ---
-## 💼 Highlight Projects
+## 💼 Key Projects
  <div align="center">
   <table>
     <tr>
@@ -34,7 +39,7 @@
         <hr>
         <p>Event platform<br>Points system<br>Multi-user roles</p>
         <hr>
-        <a href="http://nmimtechfeista.in" target="_blank">
+        <a href="[http://nmimtechfeista.in](https://nmimstechfiesta.in/)" target="_blank">
           <img src="https://img.shields.io/badge/Live-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Project"/>
         </a>
       </td>
