@@ -7,7 +7,7 @@
 
 
 ---
-## 💼 Key Projects
+## 💼 Check Out My Projects
  <div align="center">
   <table>
     <tr>
