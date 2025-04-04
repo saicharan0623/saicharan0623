@@ -113,8 +113,8 @@
 <div align="center">
   <table>
     <tr>
-      <td>🥇 <strong>Ranked 75th</strong> in IIT Kottayam CTF (out of X participants, 2024)</td>
-      <td>🥈 <strong>2nd Place</strong> in Webathon Coding Competition (2024)</td>
+      <td>🥈 <strong>Runner-Up</strong> in Webathon Coding Competition (2024)</td>
+      <td>🥇 <strong>Runner-Up</strong> in CSI Project Expo</td>
     </tr>
     <tr>
       <td>🔰 <strong>Recognized Performer</strong> in IN-SEC Cyber-Security Challenges</td>
@@ -122,7 +122,7 @@
     </tr>
     <tr>
       <td>⚛️ <strong>React JS Certification</strong> - Scalar Topics</td>
-      <td>🌟 <strong>Data Analysis with Python</strong> - FreeCodeCamp</td>
+      <td>🌟 <strong>Data Analysis with Python</strong> - Linkedin Learning</td>
     </tr>
   </table>
 </div>
