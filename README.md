@@ -37,7 +37,7 @@
         </a>
       </td>
       <td align="center" width="25%">
-        <h3>Boutique Management </h3>
+        <h3>Boutique Management</h3>
         <hr>
         <p>Customer tracking<br>Billing system<br>Analytics dashboard</p>
         <hr>
@@ -49,10 +49,9 @@
   </table>
 </div>
 
-<details>
-  <summary><b>For More Projects Click here..</b></summary>
-  <br>
+<br>
 
+<div align="center">
   <table>
     <tr>
       <th>Project Name</th>
@@ -62,41 +61,40 @@
     <tr>
       <td><b>Automatic Traffic Signal Indicator</b></td>
       <td>
-        - AI-based traffic signal optimization  
-        - Real-time vehicle density analysis  
-        - Reduces congestion in urban areas  
+        - AI-based traffic signal optimization<br>
+        - Real-time vehicle density analysis<br>
+        - Reduces congestion in urban areas
       </td>
       <td>Python, Machine Learning, Data Analytics</td>
     </tr>
     <tr>
       <td><b>Events Manager Android App</b></td>
       <td>
-        - Student and event registration system  
-        - Admin panel for event management  
-        - Real-time updates and notifications  
+        - Student and event registration system<br>
+        - Admin panel for event management<br>
+        - Real-time updates and notifications
       </td>
       <td>Android (Java, XML), Firebase</td>
     </tr>
     <tr>
       <td><b>Laundry Management System</b></td>
       <td>
-        - Web application for laundry service automation  
-        - Pickup scheduling and order tracking  
+        - Web application for laundry service automation<br>
+        - Pickup scheduling and order tracking
       </td>
       <td>PHP, MySQL, Bootstrap</td>
     </tr>
     <tr>
       <td><b>Netherlands Wikipedia Sentiment Analysis</b></td>
       <td>
-        - Sentiment analysis on Wikipedia articles  
-        - Uses NLP techniques for text classification  
-        - Implemented with Python and text processing libraries  
+        - Sentiment analysis on Wikipedia articles<br>
+        - Uses NLP techniques for text classification<br>
+        - Implemented with Python and text processing libraries
       </td>
       <td>Python, NLTK, TextBlob</td>
     </tr>
   </table>
-
-</details>
+</div>
 
 ---
 
