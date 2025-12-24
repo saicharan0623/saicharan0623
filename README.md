@@ -1,146 +1,66 @@
-<h1 align="center">Hi 👋, I'm Malde Saicharan</h1>
-<h3 align="center">B.Tech CSE - Data Science | Full Stack Developer | Data Analyst</h3>
+# Malde Saicharan
+**Software Engineer | Full Stack Developer & Data Science**
 
-<p align="center"><strong><em>"Sometimes You Win, Sometimes You Learn"</em></strong></p>
-
----
-
-## 💼 Check Out My Projects
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <h3>My <br>Portfolio</h3>
-        <hr>
-        <p>React & Tailwind CSS<br>Responsive design<br>Skills showcase</p>
-        <hr>
-        <a href="https://maldesaicharan.netlify.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Project"/>
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <h3>Leave <br>Management</h3>
-        <hr>
-        <p>Used at NMIMS<br>Digital workflow<br>6+ months active</p>
-        <hr>
-        <a href="http://nmimshyd.in/leave" target="_blank">
-          <img src="https://img.shields.io/badge/Live-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Project"/>
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <h3>NMIMS Tech <br>Fiesta 25</h3>
-        <hr>
-        <p>Event platform<br>Points system<br>Multi-user roles</p>
-        <hr>
-        <a href="https://nmimstechfiesta.in/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Project"/>
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <h3>Boutique Management</h3>
-        <hr>
-        <p>Customer tracking<br>Billing system<br>Analytics dashboard</p>
-        <hr>
-        <a href="https://lathatailor.web.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Project"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Project Name</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-    </tr>
-    <tr>
-      <td><b>Automatic Traffic Signal Indicator</b></td>
-      <td>
-        - AI-based traffic signal optimization<br>
-        - Real-time vehicle density analysis<br>
-        - Reduces congestion in urban areas
-      </td>
-      <td>Python, Machine Learning, Data Analytics</td>
-    </tr>
-    <tr>
-      <td><b>Events Manager Android App</b></td>
-      <td>
-        - Student and event registration system<br>
-        - Admin panel for event management<br>
-        - Real-time updates and notifications
-      </td>
-      <td>Android (Java, XML), Firebase</td>
-    </tr>
-    <tr>
-      <td><b>Laundry Management System</b></td>
-      <td>
-        - Web application for laundry service automation<br>
-        - Pickup scheduling and order tracking
-      </td>
-      <td>PHP, MySQL, Bootstrap</td>
-    </tr>
-    <tr>
-      <td><b>Netherlands Wikipedia Sentiment Analysis</b></td>
-      <td>
-        - Sentiment analysis on Wikipedia articles<br>
-        - Uses NLP techniques for text classification<br>
-        - Implemented with Python and text processing libraries
-      </td>
-      <td>Python, NLTK, TextBlob</td>
-    </tr>
-  </table>
-</div>
+> 📍 Hyderabad, India | 📧 [saicharanmalde@example.com](mailto:saicharanmalde@example.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/maldesaicharan) | 🌐 [Portfolio](https://maldesaicharan.netlify.app)
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Featured Engineering Work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,mongodb,php,mysql,html,css,js,bootstrap,aws,python,c,r,cpp,tailwind" />
-</p>
+### **Schedura AI** (Award Winning Project)
+*Conversational AI calling agent designed to automate hospital appointment scheduling.*
+- **Recognition:** 🏆 Runner-Up at "AI for Health Project Expo".
+- **Impact:** Reduces operational inefficiencies by handling patient calls and scheduling automatically.
+- **Link:** [View Live Demo](https://scheduraa.netlify.app)
 
----
+### **Dayscholars Outing Management** (Live Production)
+*Digital outing pass system with 2-factor parent authentication.*
+- **Security:** Implemented secure OTP verification for parents to approve student outings, preventing unauthorized exits.
+- **Impact:** Deployed live for university students to streamline the gate-pass generation process.
+- **Link:** [View Live System](http://nmimshyd.in/dayscholar/)
 
-## 🏆 Achievements & Certifications
+### **Sashakt Nari** (Live Android App)
+*Women's safety and empowerment application deployed on Google Play Store.*
+- **Impact:** Engineered a safety app featuring multilingual support (Hindi/English) and speech-to-text accessibility.
+- **Tech:** React Native, Firebase, Google Play Console.
+- **Link:** [View on Play Store](#)
 
-<div align="center">
-  <table>
-    <tr>
-      <td>🥈 <strong>Runner-Up</strong> in Webathon Coding Competition (2024)</td>
-      <td>🥇 <strong>Runner-Up</strong> in CSI Project Expo</td>
-    </tr>
-    <tr>
-      <td>🔰 <strong>Recognized Performer</strong> in IN-SEC Cyber-Security Challenges</td>
-      <td>📱 <strong>Google Cloud Computing Foundations</strong> (4 courses completed)</td>
-    </tr>
-    <tr>
-      <td>⚛️ <strong>React JS Certification</strong> - Scalar Topics</td>
-      <td>🌟 <strong>Data Analysis with Python</strong> - Linkedin Learning</td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:saicharanmalde@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/maldesaicharan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+### **NMIMS Leave Management System** (Live Production)
+*Used by faculty at NMIMS Hyderabad for digital workflow automation.*
+- **Role:** Full Stack Developer
+- **Impact:** Digitized the manual leave approval process, currently handling requests for the university faculty.
+- **Tech:** PHP, MySQL, Bootstrap.
+- **Link:** [View Live System](http://nmimshyd.in/leave)
 
 ---
 
-<div align="center">
-<h3>Let's Build Something Great Together! 🚀</h3>  
- <p>Feel free to reach out for discussions on projects, internships, or tech chats!</p>
-</div>
+## 🛠 Technical Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, JavaScript (ES6+), SQL, PHP |
+| **Frontend** | React.js, React Native, Tailwind CSS, HTML5 |
+| **Backend & DB** | Node.js, MySQL, MongoDB, Firebase, DynamoDB |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Git/GitHub |
+
+---
+
+## 📂 Other Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **NMIMS Tech Fiesta** | **Event Platform:** Centralized event management platform with multi-user role authentication and real-time points system. | React, Firebase |
+| **Boutique Management** | **SaaS-style Billing System:** Created a customer tracking and analytics dashboard for a local business to manage inventory and billing. | PHP, MySQL |
+| **Auto Traffic Indicator** | **AI/ML Solution:** Developed a model to analyze real-time vehicle density for traffic signal optimization. | Python, ML |
+| **Wikipedia Sentiment** | **NLP Analysis:** Performed sentiment analysis on Dutch Wikipedia articles using text classification techniques. | Python, NLTK |
+
+---
+
+## 🏆 Achievements
+
+- **Runner-Up**, AI for Health Project Expo (Schedura Voice Agent)
+- **Runner-Up**, Webathon Coding Competition (2024)
+- **Top 50 Globally**, AWS Skills to Jobs CTF 2025 (2,213 Points)
+- **Recognized Performer**, IN-SEC Cyber-Security Challenges
+
+---
